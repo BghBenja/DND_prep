@@ -1,8 +1,32 @@
 Question
 
-Doe (Barkskin)
+D: Mmmmm, what is calling me back from my ethereal wanderings?
 
-Ravager (Bloodstream)
+D: Moo-ZAHR!
+
+D: What kind of beast is this?
+
+D: Mmmmm, {answer}... I can share my wanderings with you. But first, I seek knowing, the trith of nature held within your arc.
+
+D: You want to answer, so i will ask.
+
+D: Answer these questions true, sweet beast, so that your arc may be known and your eye may open.
+
+D: And choose wisely. Answer from your heart.
+
+Story
+
+A powerful and determined warlord is about to set fire to crowded ziggurat.
+
+You have his eldest son in your custody.
+
+You culd stop the warlord by hunting his son-breaking his arm and threatening to do worse unless the warlord relents and gives himself up.
+
+Q: Do you torture your hostage or let the crowd fend for itseld in the fire?
+
+Trust the crowd can fend for itself.
+
+Break the son's arm.
 
 Q: Do you slay the warrior or leave him to whatever fate may hold?
 
